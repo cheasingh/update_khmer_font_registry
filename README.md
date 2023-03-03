@@ -30,3 +30,5 @@ run the your `py` file, make sure your terminal/cmd is running as administrator.
 ```
 python3 main.py
 ```
+
+and restart your computer.
