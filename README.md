@@ -24,3 +24,9 @@ and on line 20 of main.py file choose whatever font name you prefer
 ```
 set_run_key("MS Shell Dlg 2", "Khmer OS")
 ```
+
+run the your `py` file, make sure your terminal/cmd is running as administrator.
+
+```
+python3 main.py
+```
